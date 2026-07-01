@@ -1,0 +1,74 @@
+canonical_identifier: bkk:krp/KR6a0120/T/v1
+canonical_location: https://kanripo.org/bkk/KR6a0120/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 央掘魔羅經
+  identifiers:
+    krp: KR6a0120
+    cbeta: T02n0120
+    cbeta_old_id: T02n0120
+    authorityid: CA0003680
+    json_key: T0120
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0120.xml
+    old_id: T02n0120
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6a0120_000-T.yaml, hash: 'sha256:0fe79c09a40e67fd8b4e1bc8a25bdad1ee12c4995ab34a5b015662fff31b2cfe'}
+  - {seq: 1, filename: KR6a0120_001-T.yaml, hash: 'sha256:288f4a28be01741b671194e4b5cb917656b19427f09ee34dbfad2ab1fff92b45'}
+  - {seq: 2, filename: KR6a0120_002-T.yaml, hash: 'sha256:1a5729af449d81c64881476ad729c91b19ae6017dfd0180ef038c89ccc8bbea7'}
+  - {seq: 3, filename: KR6a0120_003-T.yaml, hash: 'sha256:11cc8db6c7b95224d6a8b43563ce924488c96e3c2d54cb76ff3066dc247afcb2'}
+  - {seq: 4, filename: KR6a0120_004-T.yaml, hash: 'sha256:ab091797b3420363ed533fd7c8db9a0f80a84eed5f5192c22c227a605d88f7ff'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6a0120_000-T.markers.yaml, hash: 'sha256:8c3a6775c5137faed3198617178e22af5d7f6a5de1021830e8757ab545c00afc'}
+  - {seq: 1, role: markers, filename: assets/KR6a0120_001-T.markers.yaml, hash: 'sha256:6366835ed271b883dfcca926bfde23e67ac7708ab1142ea34df18536d1f8c22e'}
+  - {seq: 2, role: markers, filename: assets/KR6a0120_002-T.markers.yaml, hash: 'sha256:01266e9a0669df07762a351c05b719f794b93a0ca7ca619a297b3cd07e816034'}
+  - {seq: 3, role: markers, filename: assets/KR6a0120_003-T.markers.yaml, hash: 'sha256:089b0db2cc4a3912f235f8d92196e09e0d61a70eca996500b5e76a93c7ee3c6c'}
+  - {seq: 4, role: markers, filename: assets/KR6a0120_004-T.markers.yaml, hash: 'sha256:4bbb6b7407f7e2476ff0243b4c40d35635e6e000cd16e96b28bea684b7c97dbd'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6a0120_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 9443
+  label: 央掘魔羅經卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6a0120_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 9522
+  label: 央掘魔羅經卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6a0120_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 8177
+  label: 央掘魔羅經卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6a0120_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 8896
+  label: 央掘魔羅經卷第四
+  type: juan
+  level: 1
+hash: sha256:e8e7e2b9302c2abe9fb224555b4abaa240cbe112bb389d07837662f0e150d240

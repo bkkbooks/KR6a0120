@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0120/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 央掘魔羅經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T02/T02n0120.xml
+    old_id: T02n0120
+hash: sha256:0fe79c09a40e67fd8b4e1bc8a25bdad1ee12c4995ab34a5b015662fff31b2cfe
