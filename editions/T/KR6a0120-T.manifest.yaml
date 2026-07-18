@@ -25,7 +25,7 @@ assets:
   - {seq: 3, filename: KR6a0120_003-T.yaml, hash: 'sha256:11cc8db6c7b95224d6a8b43563ce924488c96e3c2d54cb76ff3066dc247afcb2'}
   - {seq: 4, filename: KR6a0120_004-T.yaml, hash: 'sha256:ab091797b3420363ed533fd7c8db9a0f80a84eed5f5192c22c227a605d88f7ff'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6a0120_000-T.markers.yaml, hash: 'sha256:8c3a6775c5137faed3198617178e22af5d7f6a5de1021830e8757ab545c00afc'}
+  - {seq: 0, role: markers, filename: assets/KR6a0120_000-T.markers.yaml, hash: 'sha256:7d6b54dc386293f2757d597c359b4b782973fa6cc5508088bf053e7db70e2215'}
   - {seq: 1, role: markers, filename: assets/KR6a0120_001-T.markers.yaml, hash: 'sha256:6366835ed271b883dfcca926bfde23e67ac7708ab1142ea34df18536d1f8c22e'}
   - {seq: 2, role: markers, filename: assets/KR6a0120_002-T.markers.yaml, hash: 'sha256:01266e9a0669df07762a351c05b719f794b93a0ca7ca619a297b3cd07e816034'}
   - {seq: 3, role: markers, filename: assets/KR6a0120_003-T.markers.yaml, hash: 'sha256:089b0db2cc4a3912f235f8d92196e09e0d61a70eca996500b5e76a93c7ee3c6c'}
@@ -71,4 +71,4 @@ table_of_contents:
   label: 央掘魔羅經卷第四
   type: juan
   level: 1
-hash: sha256:e8e7e2b9302c2abe9fb224555b4abaa240cbe112bb389d07837662f0e150d240
+hash: sha256:0fa32ff3988cf2c8680beb8dcd27b62074f3b247b1161e8948137829d60af677
